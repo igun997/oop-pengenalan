@@ -1,3 +1,3 @@
 # Materi Pengenalan OOP
-* Berisi Materi Pertemuan 2 
+* Berisi File Latihan Pertemuan 2 
 * File .java ada di src/pengenalanoop
